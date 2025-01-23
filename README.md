@@ -1,0 +1,16 @@
+# App_Calculator Developing
+
+Hello! I'm glad you're here.
+This is the beginning of a project that has a goal to develop soft skills of the programmers who is envolved on this little challenge. 
+
+## Which tools were used so far?
+-LinearLayout
+-constraintlayout
+-TextViews
+-TableLayout
+-TableRow
+-AppCompatButton
+
+## Screenshot
+
+<img width="200" src="https://github.com/user-attachments/assets/d1ec024a-929a-4c6d-b733-becaf8f0328b" />
