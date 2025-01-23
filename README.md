@@ -11,6 +11,6 @@ This is the beginning of a project that has a goal to develop soft skills of the
 -TableRow
 -AppCompatButton
 
-## images
+## Screenshot
 
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/784080b4-d914-4a33-b570-8f6604357c96" />
+<img width="200" src="https://github.com/user-attachments/assets/d1ec024a-929a-4c6d-b733-becaf8f0328b" />
