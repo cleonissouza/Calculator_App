@@ -15,7 +15,7 @@ This is the beginning of a project that has a goal to develop soft skills of the
   - TextView
   - AppCompatButton 
 
-## Screenshot
+## :camera_flash: Screenshots
 
 <img width="200" src="https://github.com/user-attachments/assets/d1ec024a-929a-4c6d-b733-becaf8f0328b" />
 
