@@ -4,12 +4,17 @@ Hello! I'm glad you're here.
 This is the beginning of a project that has a goal to develop soft skills of the programmers who is envolved on this little challenge. 
 
 ## Which tools were used so far?
--LinearLayout
--constraintlayout
--TextViews
--TableLayout
--TableRow
--AppCompatButton
+## Tecnologias
+- Activity
+- ViewGroups
+  - LinearLayout
+  - ConstraintsLayout
+  - TableLayout
+      - TableRow
+- Views
+  - ImageButton
+  - TextView
+  - AppCpmatButton 
 
 ## Screenshot
 
