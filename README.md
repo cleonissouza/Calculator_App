@@ -14,3 +14,5 @@ This is the beginning of a project that has a goal to develop soft skills of the
 ## Screenshot
 
 <img width="200" src="https://github.com/user-attachments/assets/d1ec024a-929a-4c6d-b733-becaf8f0328b" />
+
+<img width="167" src="https://github.com/user-attachments/assets/8df50cff-7ce5-4164-8903-31920a866340" />
