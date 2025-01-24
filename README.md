@@ -13,7 +13,7 @@ This is the beginning of a project that has a goal to develop soft skills of the
 - Views
   - ImageButton
   - TextView
-  - AppCpmatButton 
+  - AppCompatButton 
 
 ## Screenshot
 
